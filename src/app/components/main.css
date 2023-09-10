@@ -1,0 +1,14 @@
+.navigation-main{
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.navigation-main li{
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.navigation-main li a{
+    text-decoration: none;
+}
